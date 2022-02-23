@@ -131,7 +131,7 @@ def main():
 
         
     ###--- Save or Show
-    fnout = './Pics/Fig3_Idealized_example_40x40.png'
+    fnout = './Pics/Fig03_Idealized_example_40x40.png'
     plt.savefig(fnout,bbox_inches='tight',dpi=150) 
     print(fnout)    
     plt.show()

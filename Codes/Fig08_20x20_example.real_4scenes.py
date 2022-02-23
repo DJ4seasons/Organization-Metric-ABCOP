@@ -112,7 +112,7 @@ def main():
             iy=iy-ly-gapy
         
     ###--- Save or Show
-    fnout = './Pics/Fig8_20x20_example.real_4.png'
+    fnout = './Pics/Fig08_20x20_example.real_4.png'
     plt.savefig(fnout,bbox_inches='tight',dpi=150) 
     print(fnout)
     

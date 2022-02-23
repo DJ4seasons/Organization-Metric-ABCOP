@@ -163,7 +163,7 @@ def main():
             iy=iy-ly*1.4-gapy
     ###--- Save or Show
     var_nm= ''.join([str(val) for val in id_select])
-    fnout = './Pics/Fig4_random_example_40x40.tgt_den{}.{}.png'.format(tgt_den,var_nm)
+    fnout = './Pics/Fig04_random_example_40x40.tgt_den{}.{}.png'.format(tgt_den,var_nm)
     plt.savefig(fnout,bbox_inches='tight',dpi=150) 
     print(fnout)
     
