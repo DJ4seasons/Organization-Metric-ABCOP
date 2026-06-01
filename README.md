@@ -1,7 +1,7 @@
 # Organization-Metric-ABCOP
 <br>
 Python codes to calculate organization metric (index) ABCOP as well as other metrics like SCAI, MCAI, COP, and I_org for comparison. <br />
-Reference: 2022JD036665 (AGU JGR-A; submitted) <br />
+Reference: 2022JD036665 (AGU JGR-A; https://doi.org/10.1029/2022JD036665) <br />
 See also https://data.nasa.gov/Earth-Science/Tropical-CPR-identification-data-for-Organization-/md8t-ur38
 
 
